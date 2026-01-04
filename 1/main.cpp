@@ -3,10 +3,9 @@ using namespace std;
 
 class Employee
 {
-    public:
+public:
     string name;
     int age, salary;
-
 };
 
 int main()
@@ -43,4 +42,5 @@ int main()
 
     cout << "Sum of ages: " << employee1.age + employee2.age << endl;
 
+    return 0;
 }
