@@ -1,0 +1,5 @@
+1. An Employee class is created. It has public properties: name, age, and salary.
+2. An object of the Employee class is created with the following values: name → "john", age → 25, salary → 1000.
+3. Similarly, a second object of the Employee class is created with these values: name → "eric", age → 26, salary → 2000.
+4. Display the sum of the salaries of the created objects on the screen.
+5. Display the sum of the ages of the created objects on the screen.
