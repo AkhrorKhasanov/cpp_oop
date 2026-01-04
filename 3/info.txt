@@ -1,0 +1,3 @@
+1. Create a Student class. It should have public properties name and surname.
+2. Create a helper method. This method should take the first character of a string, convert it to an uppercase letter, and return it.
+3. Create a method that returns the initials (first letters) of the student’s name and surname.
